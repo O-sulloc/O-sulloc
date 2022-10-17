@@ -45,11 +45,14 @@
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
-  <!-- <img src="">
-  <img src="">
-  <img src="">
-  <img src="">  -->
+  <!-- <img src=""> -->
 </div>
+
+<p></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=O-sulloc&layout=compact)](https://github.com/O-sulloc/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=O-sulloc)](https://github.com/O-sulloc/github-readme-stats)
+  
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
