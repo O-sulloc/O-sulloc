@@ -51,7 +51,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=O-sulloc&layout=compact)](https://github.com/O-sulloc/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=O-sulloc)](https://github.com/O-sulloc/github-readme-stats)
-  
+
+<p></p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<p></p>
+
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FO-sulloc&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
